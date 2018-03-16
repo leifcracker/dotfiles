@@ -1,0 +1,24 @@
+URxvt.scrollBar:false
+
+#Configuring the custard grid
+custard.rows: 8
+custard.columns: 6
+
+#border type and size
+custard.border_type: Triple
+custard.border_size: 3
+
+#Manual colors (goodbye pywal)
+custard.focused_color: #9b3c52
+custard.unfocused_color: #191719
+custard.background_color: #191719
+
+#gaps control
+custard.margin: 10
+custard.margin_top: 10
+custard.margin_bottom: 10
+custard.margin_left: 0
+custard.margin_right: 0
+
+#workspaces control
+custard.workspaces: 5
